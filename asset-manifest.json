@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Meals4You/static/css/main.5e033609.css",
+    "main.js": "/Meals4You/static/js/main.fe9f98be.js",
+    "static/media/meals.jpg": "/Meals4You/static/media/meals.2971f633fc1382581cbf.jpg",
+    "index.html": "/Meals4You/index.html",
+    "main.5e033609.css.map": "/Meals4You/static/css/main.5e033609.css.map",
+    "main.fe9f98be.js.map": "/Meals4You/static/js/main.fe9f98be.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5e033609.css",
+    "static/js/main.fe9f98be.js"
+  ]
+}
